@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 4d4a5cf3d9af59a49aaf1cdbae230684
+timeCreated: 1559263747
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alpha_0
+    21300002: alpha_1
+    21300004: alpha_2
+    21300006: alpha_3
+    21300008: alpha_4
+    21300010: alpha_5
+    21300012: alpha_6
+    21300014: alpha_7
+    21300016: alpha_8
+    21300018: alpha_9
+    21300020: alpha_10
+    21300022: alpha_11
+    21300024: alpha_12
+    21300026: alpha_13
+    21300028: alpha_14
+    21300030: alpha_15
+    21300032: alpha_16
+    21300034: alpha_17
+    21300036: alpha_18
+    21300038: alpha_19
+    21300040: alpha_20
+    21300042: alpha_21
+    21300044: alpha_22
+    21300046: alpha_23
+    21300048: alpha_24
+    21300050: alpha_25
+    21300052: alpha_26
+    21300054: alpha_27
+    21300056: alpha_28
+    21300058: alpha_29
+    21300060: alpha_30
+    21300062: alpha_31
+    21300064: alpha_32
+    21300066: alpha_33
+    21300068: alpha_34
+    21300070: alpha_35
+    21300072: alpha_36
+    21300074: alpha_37
+    21300076: alpha_38
+    21300078: alpha_39
+    21300080: alpha_40
+    21300082: alpha_41
+    21300084: alpha_42
+    21300086: alpha_43
+    21300088: alpha_44
+    21300090: alpha_45
+    21300092: alpha_46
+    21300094: alpha_47
+    21300096: alpha_48
+    21300098: alpha_49
+    21300100: alpha_50
+    21300102: alpha_51
+    21300104: alpha_52
+    21300106: alpha_53
+    21300108: alpha_54
+    21300110: alpha_55
+    21300112: alpha_56
+    21300114: alpha_57
+    21300116: alpha_58
+    21300118: alpha_59
+    21300120: alpha_60
+    21300122: alpha_61
+    21300124: alpha_62
+    21300126: alpha_63
+    21300128: alpha_64
+    21300130: alpha_65
+    21300132: alpha_66
+    21300134: alpha_67
+    21300136: alpha_68
+    21300138: alpha_69
+    21300140: alpha_70
+    21300142: alpha_71
+    21300144: alpha_72
+    21300146: alpha_73
+    21300148: alpha_74
+    21300150: alpha_75
+    21300152: alpha_76
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alpha_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

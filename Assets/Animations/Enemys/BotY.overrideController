@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BotY
+  m_Controller: {fileID: 9100000, guid: 474b700abd3b01c429edd78bf9d9a3db, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c2da7c80ec733c34f8ff3e856a20af16, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b9be4194f727d0e4eb999b4567b537d4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fc4d36c544f12e54aa76a564962bc076, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fc4d36c544f12e54aa76a564962bc076, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a6ffb5e71e31bd54b9a8b64c9a52b0f1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 10ec8a5966915b546a76db3ca1043f62, type: 2}

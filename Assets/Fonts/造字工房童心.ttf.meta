@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c1954408a25023f4ab7e52aa9a39d054
+timeCreated: 1559705693
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MF TongXin (Noncommercial)
+  fontNames:
+  - MF TongXin (Noncommercial)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
